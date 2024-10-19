@@ -1,13 +1,12 @@
 # DATA SCIENCE REAL WORLD PROJECTS
 
-**Hey Data Scientist, I am learning Data Science and Machine Learning with the help of internet here is my some work. Check out my data science projects including Data preprocessing, machine learning and deep learning with various type of datasets.**
+**Hey Data Scientist, I am learning Data Science and Machine Learning with the help of internet and work experience here is my some work. Check out my data science projects including Data preprocessing, machine learning and deep learning with various type of datasets.**
 
 > I created this repo when I was in my initial stage of learning. So my apporach is too amature for the problem statements. Do check my latest repositories :)
 
 # CONNECT ME:
-- **Twitter** : https://twitter.com/KuchBhiKaran
-- **Linkedin** : https://www.linkedin.com/in/karanshingde
-- **Gmail** : karanshingde@gmail.com
+- **Linkedin** : https://www.linkedin.com/in/wone-belay
+- **Gmail** : abwende2000@gmail.com
 
 # Tools:
 - Python
@@ -37,9 +36,5 @@
 - My Laptop
 
 
-# Coding Platforms
-- **Kaggle** : https://www.kaggle.com/karan842
-- **Leetcode** : https://leetcode.com/karanshingde/
-- **HackerRank** : https://www.hackerrank.com/karanshingde
 
 # Thank You! 🚀👻
