@@ -7,6 +7,7 @@
 # CONNECT ME:
 - **Linkedin** : https://www.linkedin.com/in/wone-belay
 - **Gmail** : abwende2000@gmail.com
+- **My Portfolio** : https://wonebelay.com
 
 # Tools:
 - Python
